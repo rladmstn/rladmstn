@@ -12,6 +12,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rladmstn&theme=react-dark&bg_color=20232a&hide_border=true&line=D7C3F1&color=D7C3F1" width=94%/>
 </a>
 
-<br><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A639C,10:9B86BD,30:E2BBE9,75:7776B3,100:6F61C0&height=100&section=footer&text=&fontSize=0" width="100%"/>
 </div>
