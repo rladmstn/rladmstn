@@ -13,5 +13,5 @@
 </a>
 
 <br><br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5A639C,10:9B86BD,30:E2BBE9,75:7776B3,100:6F61C0&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A639C,10:9B86BD,30:E2BBE9,75:7776B3,100:6F61C0&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
